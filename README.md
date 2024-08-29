@@ -4,7 +4,7 @@ Final Year B.tech Project on Machine Learning Stock Prediction through Deep Lear
 # Stock-Price-Prediction
 Top Class Stock Price Prediction Project through Machine Learning Algorithms for Google. Easy Understanding and Implementation.
 
-### Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
+### Project PPT Download [**LINK**](https://github.com/ap2963389/Predicting-Stock-Prices/raw/main/Stock_price%20_prediction.pptx)
 
 ### Stock Price Prediction :
 
